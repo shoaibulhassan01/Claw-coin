@@ -1149,3 +1149,23 @@ padding-bottom: 50px;
   
 
 }
+
+
+
+
+
+
+.l{
+  display: none;
+}
+
+
+@media (max-width:700px) {
+  .l{
+    display:block;
+  }
+  .k{
+    display: none;
+  }
+}
+
